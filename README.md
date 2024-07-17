@@ -56,7 +56,7 @@
 
 ### Cloud  
 <div align="center">
-<img style="margin: 10px"  src="https://skillicons.dev/icons?i=heroku,netlify,vercel,gcp,firebase&perline=5" />
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=heroku,netlify,vercel,firebase&perline=5" />
 </div>
 
 </td><td valign="top" width="20%">
