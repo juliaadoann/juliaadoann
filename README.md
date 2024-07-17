@@ -12,8 +12,8 @@
 
 </br>
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=juliaadoann&color=green" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=juliaadoann&color=green&style=for-the-badge" />
 </div>
 
 <!--
