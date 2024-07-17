@@ -13,7 +13,7 @@
 </br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=juliaadoann&color=green&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=juliaadoann&color=brightgreen&style=for-the-badge" />
 </div>
 
 <!--
