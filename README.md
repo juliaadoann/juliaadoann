@@ -10,7 +10,7 @@
 - 🌟 All of my projects are available at [My Portfolio]
 
 
-</br>
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=juliaadoann&color=green&style=for-the-badge" />
@@ -27,10 +27,48 @@
 <a href="https://www.linkedin.com/in/juliaadoann/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="mailto:juliadoan0403@gmail.com/" target="_blank">
+<a href="mailto:juliadoan0403@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
-</div>  
+</div> 
+
+<br/>
+
+## My Skill Set
+<table><tr><td valign="top" width="20%">
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,flutter,tailwind,materialui&perline=5" />  
+</div>
+
+</td>
+<td valign="top" width="20%">
+
+
+
+### Backend  
+<div align="center">
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=nextjs,mongodb,nodejs,mysql&perline=5" />
+</div>
+
+</td><td valign="top" width="20%">
+
+### Cloud  
+<div align="center">
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=heroku,netlify,vercel,gcp,firebase&perline=5" />
+</div>
+
+</td><td valign="top" width="20%">
+
+
+
+### Tools  
+<div align="center">  
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=figma,git,github,ps,bash,vscode&perline=5" />
+</div>
+
+</td></tr></table>  
 
 <!--
 **juliaadoann/juliaadoann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
