@@ -1,4 +1,20 @@
-## Hi there 👋
+### <div align="center">Hi there 👋, I'm Julia Doan, a Full stack developer</div> 
+
+
+- 👩‍🎓 Student at University of Alberta
+
+- 👩‍💻 My goal is to become a ML/AI engineer or Full-stack developer
+  
+- 🌱 Currently interested in Computer Vision
+
+- 🌟 All of my projects are available at [My Portfolio]
+
+
+</br>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=juliaadoann&color=green" />
+</div>
 
 <!--
 **juliaadoann/juliaadoann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
