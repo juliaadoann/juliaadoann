@@ -27,6 +27,9 @@
 <a href="https://www.linkedin.com/in/juliaadoann/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+<a href="mailto:juliadoan0403@gmail.com/" target="_blank">
+<img src=https://img.shields.io/badge/gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a> 
 </div>  
 
 <!--
