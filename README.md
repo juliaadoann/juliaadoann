@@ -13,8 +13,10 @@
 </br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=juliaadoann&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=juliaadoann&color=green&style=for-the-badge" />
 </div>
+
+## Connect with me
 
 <!--
 **juliaadoann/juliaadoann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
