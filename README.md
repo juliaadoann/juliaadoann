@@ -24,8 +24,8 @@
 <a href="https://www.instagram.com/juliadoan_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a>
-[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juliaadoann/)&emsp;
+<a href="https://www.linkedin.com/juliaadoann/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin%0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 </div>  
 
