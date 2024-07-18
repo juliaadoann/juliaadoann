@@ -7,8 +7,6 @@
   
 - 🌱 Currently interested in Computer Vision
 
-- 🌟 All of my projects are available at [My Portfolio]
-
 
 <br/>
 
