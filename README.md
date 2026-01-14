@@ -3,9 +3,9 @@
 
 - 👩‍🎓 Student at University of Alberta
 
-- 👩‍💻 My goal is to become a ML/AI engineer or Full-stack developer
+- 👩‍💻 I imagine myself working on the business side of tech 3 years from now!
   
-- 🌱 Currently interested in Computer Vision
+- 🌱 Currently interested in anything Fintech.
 
 
 <br/>
