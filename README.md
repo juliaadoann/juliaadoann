@@ -1,11 +1,10 @@
 ### <div align="center">Hi there 👋, I'm Julia Doan, a Full stack developer</div> 
 
 
-- 👩‍🎓 Student at University of Alberta
-
-- 👩‍💻 I imagine myself working on the business side of tech 3 years from now!
-  
-- 🌱 Currently interested in anything Fintech.
+- 👩‍🎓 New grad @ University of Alberta.
+- 👩‍💻 A trusted teamworker interested in building clean, reliable systems and thoughtful software.
+- 🎻 Classical musician who enjoys orchestras, symphonies, and chamber music.
+- 🌱 Curious about the intersection of technology, finance, and elegant design.
 
 
 <br/>
